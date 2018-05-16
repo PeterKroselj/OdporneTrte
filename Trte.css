@@ -1,0 +1,40 @@
+.container-fluid {
+  background-color: yellow;
+}
+.container {
+  // background-color: blue;
+}
+
+.container h1 {
+    /* color: red; */
+}
+
+#cards_container {
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+/*.card-columns {
+  margin-top: 10px;
+  column-count: 2;
+}*/
+
+.purchase_image {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.purchase_image img {
+  height: 50px;
+}
+
+#purcashe_container p {
+
+}
+
+#purchase_container .card-body {
+   padding-bottom: 0px;
+}
